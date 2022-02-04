@@ -49,7 +49,7 @@ content += ('<br><br> End of message 🦗')
 
 # sending the mail
 
-print("Composing email... 📝")
+print("Composing email...📝")
 
 # updating your email id
 #important parameters
