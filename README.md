@@ -4,9 +4,12 @@
 + This program sends you the first 30 topics in hackernews.com + 
 + this is from freecodecamp's automation with python for beginners +
 + and this is just me learning automation from the above course/video +
-```
-```diff
--BEFORE RUNNING THE PROGRAM-
+
+
+
+- °BEFORE RUNNING THE PROGRAM° -
+
+
 '''
 
 The email from which the messages are to be send have to enable 
